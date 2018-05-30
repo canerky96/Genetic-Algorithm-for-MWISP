@@ -42,3 +42,5 @@ population list.</br>
 **Mutation**</br>
 We are generating a random number for each string. If random number is less
 than our crossover probability, we flipping the ten random digits of string.</br>
+  
+![untitled](https://user-images.githubusercontent.com/33653098/40720679-351a0290-6420-11e8-990a-cc978887d09c.png)
