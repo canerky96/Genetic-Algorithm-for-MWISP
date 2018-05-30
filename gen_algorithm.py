@@ -247,22 +247,7 @@ if __name__ == '__main__':
 
         repaired_pop = repair(mut)      # repairs population after mutation
 
-        # Finds average fitness of current iteration ######################
-        # average_fitness = 0
-        # for j in repaired_pop:
-        #     fitness = get_fitness(j, weightList)
-        #     average_fitness += fitness
-        #
-        # average_fitness /= int(population_size)
-        # print("Iteration: ", i, " Average Fitness: ", average_fitness)
-        # file = open("iteration.txt", "a")
-        #
-        # file.write(str(name_of_graph) + " Number of Generation: " + str(number_of_generation) +
-        #            " Population Size: " + str(population_size) + " Cross Prob: " + str(cros_prob) +
-        #            " Mutation Prob: " + str(mutation_prob) + " Iteration: " + str(i) +
-        #            " Average Fitness : " + str(average_fitness))
-        # file.write("\n\n")
-        # file.close()
+
 
     # Finds max and avg fitness of population that is generated in last iteration
     max_weight = 0
