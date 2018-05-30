@@ -1,0 +1,152 @@
+003.txt Number of Generation: 50 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 55.86000000000003
+
+003.txt Number of Generation: 50 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 69.97999999999999
+
+003.txt Number of Generation: 50 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 63.93000000000003
+
+003.txt Number of Generation: 50 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 69.92
+
+003.txt Number of Generation: 50 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 62.97000000000002
+
+003.txt Number of Generation: 50 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 60.740000000000016
+
+003.txt Number of Generation: 50 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 72.18999999999998
+
+003.txt Number of Generation: 50 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 69.78999999999998
+
+003.txt Number of Generation: 200 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 72.96999999999994
+
+003.txt Number of Generation: 200 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 64.22000000000001
+
+003.txt Number of Generation: 200 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 66.02000000000001
+
+003.txt Number of Generation: 200 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 72.49000000000001
+
+003.txt Number of Generation: 200 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 71.62
+
+003.txt Number of Generation: 200 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 70.73000000000003
+
+003.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 75.19000000000001
+
+003.txt Number of Generation: 200 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 67.79999999999997
+
+003.txt Number of Generation: 200 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 73.03999999999996
+
+015.txt Number of Generation: 50 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 24.8
+
+015.txt Number of Generation: 50 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 20.020000000000003
+
+003.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 66.94
+
+015.txt Number of Generation: 50 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 23.210000000000004
+
+015.txt Number of Generation: 50 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 24.26
+
+003.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 67.27000000000002
+
+003.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 72.06000000000002
+
+015.txt Number of Generation: 50 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 23.31
+
+015.txt Number of Generation: 50 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 22.240000000000006
+
+015.txt Number of Generation: 50 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 24.370000000000005
+
+015.txt Number of Generation: 50 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 21.820000000000004
+
+015.txt Number of Generation: 200 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 23.580000000000005
+
+015.txt Number of Generation: 200 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 20.840000000000003
+
+015.txt Number of Generation: 200 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 23.840000000000003
+
+015.txt Number of Generation: 200 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 22.639999999999997
+
+003.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 72.64999999999999
+
+015.txt Number of Generation: 200 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 23.450000000000003
+
+003.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 74.88999999999999
+
+015.txt Number of Generation: 200 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 24.67000000000001
+
+015.txt Number of Generation: 200 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 23.820000000000004
+
+015.txt Number of Generation: 200 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 23.33000000000001
+
+003.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 74.14999999999995
+
+003.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 72.10000000000002
+
+015.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 24.270000000000003
+
+030.txt Number of Generation: 50 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 14.410000000000004
+
+030.txt Number of Generation: 50 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 12.35
+
+030.txt Number of Generation: 50 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 13.200000000000001
+
+030.txt Number of Generation: 50 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 13.36
+
+015.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 25.24000000000001
+
+030.txt Number of Generation: 50 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 12.710000000000003
+
+015.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 23.26
+
+030.txt Number of Generation: 50 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 13.400000000000002
+
+030.txt Number of Generation: 50 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 12.240000000000002
+
+030.txt Number of Generation: 50 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 14.630000000000003
+
+015.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 25.299999999999997
+
+030.txt Number of Generation: 200 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 13.94
+
+030.txt Number of Generation: 200 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 12.360000000000001
+
+030.txt Number of Generation: 200 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 13.0
+
+030.txt Number of Generation: 200 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 12.129999999999999
+
+015.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 23.85
+
+015.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 25.120000000000005
+
+030.txt Number of Generation: 200 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 15.290000000000001
+
+030.txt Number of Generation: 200 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 12.91
+
+015.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 25.74
+
+030.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 14.329999999999998
+
+015.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 25.000000000000004
+
+030.txt Number of Generation: 200 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 13.469999999999999
+
+030.txt Number of Generation: 200 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 12.97
+
+030.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 13.47
+
+030.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 12.96
+
+030.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 13.46
+
+030.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 14.659999999999998
+
+030.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 12.75
+
+030.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.2 Maximum Weight of SET : 15.399999999999999
+
+030.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.9 Mutation Prob: 0.02 Maximum Weight of SET : 14.15
+
+030.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 12.870000000000001 Average Weight : 0.012882882882882883
+
+030.txt Number of Generation: 400 Population Size: 100 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 12.6 Average Weight : 0.012612608882612612
+
+030.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.02 Maximum Weight of SET : 13.570000000000004 Average Weight : 0.013583583583583587
+
+030.txt Number of Generation: 400 Population Size: 200 Cross Prob: 0.6 Mutation Prob: 0.2 Maximum Weight of SET : 14.17 Average Weight : 0.014184184184184184
+
